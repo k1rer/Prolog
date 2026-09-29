@@ -1,0 +1,3 @@
+cd("/mnt/dljastudentov/ФЭиА/ИИиЗИ-25/Sakharchuk Daniil/Prolog").
+[lab11].
+hello.
